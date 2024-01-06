@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/GANGA-PC/Downloads/selenium-server-4.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANGA-PC/Downloads/jar_files (2)/webdrivermanager-5.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANGA-PC/Downloads/jar_files (3)/selenium-api-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANGA-PC/Downloads/jar_files (3)/selenium-json-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANGA-PC/Downloads/jar_files (4)/jackson-annotations-2.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANGA-PC/Downloads/jar_files (4)/jackson-core-2.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANGA-PC/Downloads/jar_files (4)/jackson-databind-2.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANGA-PC/Downloads/jar_files (5)/json-20231013.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
